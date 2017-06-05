@@ -13,5 +13,6 @@ namespace GitTest
     /// </summary>
     public partial class App : Application
     {
+		//1
     }
 }
